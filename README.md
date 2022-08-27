@@ -10,3 +10,7 @@ General
 -	What are the different traversal methods to go through a binary tree
 -	What is a complete, a full, a perfect, a balanced binary tree
 
+
+REQUIREMENTS
+Allowed editor vi,vim,emacs.
+
